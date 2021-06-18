@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 Hola! I'm Juan Pablo 👋
 Soy un Full Stack Developer que disfruta el hecho de aprender cada dia mas y tomar el desafio de encarar nuevos proyectos y lenguajes de programacion 
