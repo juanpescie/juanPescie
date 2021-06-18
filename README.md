@@ -20,7 +20,7 @@ Full Stack Developer :heart: De Argentina al :earth_americas:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://github.com/juanpescie/juanPescie/blob/main/logos/material-ui-1.svg"></code>
   <br />
-  <code><img width="10%" height="50px" src="https://github.com/juanpescie/juanPescie/blob/main/logos/python.png"></code>
+  <code><img width="10%"  src="https://github.com/juanpescie/juanPescie/blob/main/logos/python.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
